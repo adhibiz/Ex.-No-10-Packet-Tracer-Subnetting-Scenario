@@ -17,7 +17,9 @@ ________________________________________<br>
 •	Serial DCE/DTE cable for WAN link<br>
 ________________________________________
 # Network Topology Diagram
-(Insert your Packet Tracer screenshot showing R1 ↔ R2 serial link, each router connected to two switches with PCs attached.)<br>
+<img width="1075" height="839" alt="image" src="https://github.com/user-attachments/assets/acfe7a0b-3c14-4afd-9b48-7b82cb8bd874" />
+
+<br>
 ________________________________________
 # Addressing Table
 Device	Interface	IP Address	Subnet Mask	Default Gateway<br>
@@ -113,6 +115,8 @@ ________________________________________<br>
 ________________________________________<br>
 # Output (Attach Screenshots)
 •	show ip interface brief on R1 and R2<br>
+ <img width="788" height="418" alt="image" src="https://github.com/user-attachments/assets/91cbffce-7af4-4654-8f2f-a2e769a5b62b" />
+
 •	Successful pings PC ↔ PC<br>
 ________________________________________<br>
 # Result
